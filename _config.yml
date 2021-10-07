@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Primera página de GitHub Pages
+author: P4R
+email: luis.282001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Empezamos creando esta página con el fin aprender a utilizar
+  GitHub Pages. Hasta ahora el manejo de herramientas no
+  tiene complicaciones
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: RP_Luis28 # DO NOT include the @ character, or else the build will fail!
+github_username:  L7PR # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
