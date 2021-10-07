@@ -1,7 +1,7 @@
 title: Primera página en GitHub Pages
 author: Luis Polina
 email: luis.2820001@gmail.com
-theme: minima
+theme: jekyll-theme-midnight
 description: > # this means to ignore newlines until "baseurl:"
   Comenzamos creando este sitio para aprender a utilizar
   GitHub Pages. Hasta el momento no se encontraron complicaciones.
